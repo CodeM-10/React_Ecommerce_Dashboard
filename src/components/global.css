@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	list-style: none;
+	text-decoration: none;
+	font-family: arial;
+}
+a{
+	text-decoration: none;
+
+}
+
+.red  {
+	color: #e23434 !important;
+}
+
+.contain{
+	width: calc(100% - 250px);
+	height: 100vh;
+	float: right;
+	padding: 30px;
+	background-color: rgb(230, 200, 208);
+	transition:  .35s ease-in-out;
+
+}
